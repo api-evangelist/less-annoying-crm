@@ -1,0 +1,17 @@
+generated: '2026-09-22'
+method: searched
+generator: extract-docs-artifacts.py (local)
+source: https://updates.lessannoyingcrm.com/migration-to-paddle-a-new-payment-processor-287504
+sources:
+- https://updates.lessannoyingcrm.com/migration-to-paddle-a-new-payment-processor-287504
+entries:
+- breaking: false
+  highlights:
+  - Less Annoying CRM previously used Stripe to manage our billing process, but given the recent changes to tax law around the world, we've started
+    needing to collect sales tax from our customers.
+  - Paddle is a merchant of record and will be handling LACRM's billing moving forward.
+  - Any future payment made towards your LACRM subscription will include any applicable sales tax, and will also appear as "Paddle.net *LACRM"
+    on your credit card statements.
+  date: 2024-01-01T00:00:00Z? Actually page shows "January 2024" only, so date is "2024-01"? Use "2024-01"? We'll use "2024-01" as given.
+note: Version information not provided on the page.
+docs: https://updates.lessannoyingcrm.com/migration-to-paddle-a-new-payment-processor-287504

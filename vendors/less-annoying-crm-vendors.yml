@@ -1,0 +1,37 @@
+generated: '2026-09-22'
+method: probed
+source: pre-flight dossier (docs platform, portal detections) + CNAME chains and response headers of the hosts apis.yml names
+registry: all/0-working/vendors.yml
+areas_vocabulary:
+- documentation
+- developer-portal
+- api-gateway
+- cdn
+- hosting
+- sdk-generation
+- api-collections
+- status-page
+- support
+- community
+- identity
+- mcp-hosting
+vendors:
+- vendor: cloudflare
+  name: Cloudflare
+  area: cdn
+  host: lessannoyingcrm.com
+  evidence: header:cf-ray
+  signal: header
+  confidence: high
+  kin_score:
+  - https_enforced
+  - hsts
+checked:
+- 'docs-platform: no-docs-host'
+- status.lessannoyingcrm.com (StatusPage)
+- lessannoyingcrm.com (Website)
+- account.lessannoyingcrm.com (Documentation)
+- lessannoyingcrm.com (GettingStarted)
+- lessannoyingcrm.com (Support)
+- account.lessannoyingcrm.com (SignUp)
+- account.lessannoyingcrm.com (Login)

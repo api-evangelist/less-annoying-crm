@@ -1,0 +1,14 @@
+generated: '2026-09-22'
+method: searched
+generator: extract-docs-artifacts.py (local)
+source: https://updates.lessannoyingcrm.com/api-updates-now-support-webhooks-oauth-and-2-new-functions-287496
+sources:
+- https://updates.lessannoyingcrm.com/api-updates-now-support-webhooks-oauth-and-2-new-functions-287496
+description: OAuth support is mentioned but no technical details are provided.
+schemes:
+- type: oauth2
+  name: OAuth
+  evidence: We also now support OAuth for our integration partners* for a more secure login workflow.
+  how_to_obtain: If you're looking to build an integration with LACRM and would like to use OAuth, please reach out to us and we can set up credentials
+    for your software.
+docs: https://updates.lessannoyingcrm.com/api-updates-now-support-webhooks-oauth-and-2-new-functions-287496

@@ -1,23 +1,102 @@
 aid: less-annoying-crm
+
 name: Less Annoying CRM
-description: 'Less Annoying CRM is a company surfaced via the API Evangelist harvest backlog (source:
-  crm) and added to the network as a stub for full-pipeline profiling.'
+
+image: https://account.lessannoyingcrm.com/i/social_logo.png
+
+description: 'Less Annoying CRM provides simple, affordable contact management software tailored for small businesses. Founded in 2009, it remains family‑owned and self‑funded, offering a single‑price tier with no contracts, upgrades, or hidden fees. The platform includes task reminders, email syncing, calendar integration, and collaborative notes, all without the complexity of enterprise CRMs. Users can start a free trial, view live demos, and access extensive resources such as pricing, product tours, integrations, testimonials, blog posts, and a help center. The service emphasizes data ownership, easy export to Excel, and responsive human support, positioning itself as a straightforward alternative to spreadsheet‑based tracking and larger CRM solutions.'
+
 url: https://raw.githubusercontent.com/api-evangelist/less-annoying-crm/refs/heads/main/apis.yml
+
 x-type: company
+
 x-source: harvest:crm
-x-tier: stub
-x-tier-reason: harvest
+
+x-tier: profiled
+x-tier-reason: enrichment pass 2026-09-22 (modular-v1; was harvest)
+
 specificationVersion: '0.20'
+
 created: '2026-09-22'
+
 modified: '2026-09-22'
+
 tags:
 - Company
-apis: []
+- CRM
+- Small Business
+- Contact Management
+- SaaS
+
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+
 common:
+- type: Plans
+  url: plans/less-annoying-crm-plans-pricing.yml
+- type: ChangeLog
+  url: changelog/less-annoying-crm-changelog.yml
+- type: Authentication
+  url: authentication/less-annoying-crm-authentication.yml
+- type: LLMsTxt
+  url: llms/less-annoying-crm-llms.txt
+- type: Hosts
+  url: hosts/less-annoying-crm-hosts.yml
+- type: Vendors
+  url: vendors/less-annoying-crm-vendors.yml
+- type: StatusPage
+  url: https://status.lessannoyingcrm.com/
+- type: Security
+  url: https://lessannoyingcrm.com/security
+- type: Newsroom
+  url: https://lessannoyingcrm.com/press
+- type: DomainSecurity
+  url: security/less-annoying-crm-domain-security.yml
 - type: Website
   url: https://lessannoyingcrm.com/
+- type: Documentation
+  url: https://account.lessannoyingcrm.com/api_docs/v2/Getting_Started/Introduction
+- type: GettingStarted
+  url: https://lessannoyingcrm.com/tour
+- type: Pricing
+  url: https://lessannoyingcrm.com/pricing
+- type: Blog
+  url: https://lessannoyingcrm.com/resources/blog
+- type: Support
+  url: https://lessannoyingcrm.com/help
+- type: TermsOfService
+  url: https://lessannoyingcrm.com/terms
+- type: PrivacyPolicy
+  url: https://lessannoyingcrm.com/privacy
+- type: SignUp
+  url: https://account.lessannoyingcrm.com/signup
+- type: Login
+  url: https://account.lessannoyingcrm.com/login
+
+apis: []
+
+x-coverage:
+  state: unreadable
+  reason: no-machine-readable-spec
+  detail: No OpenAPI, AsyncAPI, GraphQL, or other machine‑readable contract found on api.lessannoyingcrm.com.
+  evidence:
+    - url: https://api.lessannoyingcrm.com/openapi.json
+      status: 404
+    - url: https://api.lessannoyingcrm.com/openapi.yaml
+      status: 404
+    - url: https://api.lessannoyingcrm.com/swagger.json
+      status: 404
+    - url: https://api.lessannoyingcrm.com/v1/openapi.json
+      status: 404
+    - url: https://api.lessannoyingcrm.com/api-docs
+      status: 404
+  checked: 2026-09-22
+x-enrichment:
+  date: '2026-09-22'
+  status: enriched
+  artifacts_added: 10
+  pass: modular-v1
+  engine: identity=local,contract=local,surfaces=local,docs=local

@@ -1,0 +1,38 @@
+# Less Annoying CRM
+
+> Simple, affordable CRM software built specifically for small businesses. Self-funded since 2009 with a commitment to keeping CRM easy to use and affordable.
+
+## Product Information
+- [Pricing](https://www.lessannoyingcrm.com/pricing): Simple $15/user/month pricing with no contracts, tiers, or hidden fees
+- [Features](https://www.lessannoyingcrm.com/tour): Core CRM features including contact management, lead tracking, calendar, tasks, and form builder
+- [Free Trial](https://www.lessannoyingcrm.com/help/free-trial): Complete 30-day free trial with full access to all features
+- [Form builder](https://www.lessannoyingcrm.com/forms): Native form builder automatically adds and updates your CRM data.
+- [Industries we serve](https://www.lessannoyingcrm.com/industry): List of the most common industries that use Less Annoying CRM
+
+## Getting Started & Help
+- [Help Center](https://www.lessannoyingcrm.com/help): Comprehensive help documentation and tutorials
+- [Instruction Guide](https://www.lessannoyingcrm.com/instruction-guide): Essential tutorials for new users
+- [FAQ](https://www.lessannoyingcrm.com/help-topics/faqs): Frequently asked questions about LACRM
+- [Importing Contacts](https://www.lessannoyingcrm.com/help-topics/importing-contacts): How to import data from Excel, other CRMs, or contact lists
+- [Adding Users](https://www.lessannoyingcrm.com/help-topics/adding-users): Team collaboration and user management
+- [Customizing Your Account](https://www.lessannoyingcrm.com/help-topics/customizing-your-account): Personalizing pipelines, fields, and workflows
+
+## Developer Resources
+- [API Documentation](https://account.lessannoyingcrm.com/api_docs/v2/): Complete API reference for integrations and custom development
+- [Integrations](https://www.lessannoyingcrm.com/integrations): Third-party integrations and connected apps
+- [Integration Partner Program](https://www.lessannoyingcrm.com/affiliate-program/integration-partner-program): Program for building integrations with LACRM
+
+## Small Business Resources
+- [Lead Generation Guide](https://www.lessannoyingcrm.com/blog/a-basic-guide-to-lead-generation-on-social-media): Social media lead generation strategies
+- [Workplace Teams Guide](https://www.lessannoyingcrm.com/blog/your-guide-to-workplace-teams): Team management and collaboration best practices
+- [CRM Features Guide](https://www.lessannoyingcrm.com/blog/what-features-should-you-look-for-in-a-crm): What to look for when choosing a CRM
+- [Small Business Tips](https://www.lessannoyingcrm.com/resources/small-business): Collection of business growth and management advice
+
+## Company Philosophy
+- [About Our Approach](https://www.lessannoyingcrm.com/#less-annoying-playbook): Why LACRM is self-funded and focused on small businesses
+- [Pricing Philosophy](https://www.lessannoyingcrm.com/blog/looking-at-the-pricing-model): Understanding software pricing models and our approach
+- [Company Values](https://www.lessannoyingbusiness.com/post/the-thriving-wage): Commitment to employee thriving wages and customer service
+
+## Support & Billing
+- [Pricing and Billing](https://www.lessannoyingcrm.com/help-topics/pricing-and-billing): Billing information and account management
+- [Contact Support](https://account.lessannoyingcrm.com/contact): Direct access to award-winning customer service team
