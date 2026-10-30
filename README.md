@@ -64,5 +64,96 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Less Annoying CRM is a company surfaced via the API Evangelist harvest backlog (source: crm) and added to the network as a stub for full-pipeline profiling.
-- https://lessannoyingcrm.com/
+Less Annoying CRM provides simple, affordable contact management software tailored for small businesses. Founded in 2009, it remains family‑owned and self‑funded, offering a single‑price tier with no contracts, upgrades, or hidden fees. The platform includes task reminders, email syncing, calendar integration, and collaborative notes, all without the complexity of enterprise CRMs. Users can start a free trial, view live demos, and access extensive resources such as pricing, product tours, integrations, testimonials, blog posts, and a help center. The service emphasizes data ownership, easy export to Excel, and responsive human support, positioning itself as a straightforward alternative to spreadsheet‑based tracking and larger CRM solutions.
+
+**Areas:** Company · CRM · Small Business · Contact Management · Software-as-a-Service
+
+## Less Annoying CRM on APIs.io
+
+Everything profiled for Less Annoying CRM is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/less-annoying-crm/](https://apis.io/providers/less-annoying-crm/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Less Annoying Crm Authentication](https://apis.io/security/less-annoying-crm/less-annoying-crm-authentication/)
+- [Less Annoying Crm Domain Security](https://apis.io/security/less-annoying-crm/less-annoying-crm-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Less Annoying Crm Plans Pricing](https://apis.io/plans/less-annoying-crm/less-annoying-crm-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://lessannoyingcrm.com/)
+- [Documentation](https://account.lessannoyingcrm.com/api_docs/v2/Getting_Started/Introduction)
+- [Getting started](https://lessannoyingcrm.com/tour)
+- [Pricing](https://lessannoyingcrm.com/pricing)
+- [Sign up](https://account.lessannoyingcrm.com/signup)
+- [Support](https://lessannoyingcrm.com/help)
+- [Blog](https://lessannoyingcrm.com/resources/blog)
+- [Security](https://lessannoyingcrm.com/security)
+- [Terms of service](https://lessannoyingcrm.com/terms)
+- [Privacy policy](https://lessannoyingcrm.com/privacy)
+- [Status](https://status.lessannoyingcrm.com/)
+
+## API Evangelist rating
+
+**Kin Score 33.1** — thin · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 42.1 |
+| Developer ergonomics | 40.5 |
+| Access clarity | 65.8 |
+
+**Agent readiness 2.5** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 19.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/less-annoying-crm/](https://apis.io/providers/less-annoying-crm/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Less Annoying CRM: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/less-annoying-crm/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
